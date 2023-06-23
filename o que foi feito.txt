@@ -1,0 +1,16 @@
+Baixar imagens no Figma;
+Construir um header;
+Transformar elementos em flex-containers e flex-items com FlexBox;
+Associar arquivos CSS através do @import;
+Desenvolver um menu hambúrguer interativo com HTML e CSS;
+Position relative e absolute;
+Importar e usar fontes do google fonts;
+Criar sections;
+Editar input e seu placeholder.
+Aplicar plugins externos através de CDN.
+Utilizar o plugin SwiperJS.
+Usar media queries;
+Aplicar diferentes estilos para diferentes tamanhos de tela;
+Retirar elementos da tela;
+Aplicar elementos na tela de acordo com o tamanho do dispositivo.
+
